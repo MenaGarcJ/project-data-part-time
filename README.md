@@ -14,7 +14,7 @@
 <a name="project-description"></a>
 
 ## Project Description
-For this final project I decided to put hands on a full data analysis. From Data Ingestion to Model training and evaluation. The data ingestion was from the World Bank, more specifically we used economic and financial indicators.
+For this final project I decided to put hands on a full data analysis. From Data Ingestion to Model training and evaluation. The data ingestion was from the World Bank, more specifically we used economic and financial indicators. Our mission was to create a Machine Learning Model that could help us to classify a financial crisis.
 
 <a name="workflow"></a>
 
